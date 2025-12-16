@@ -1,5 +1,8 @@
 pacakage com.example.demo.entity;
 
+
+import jakarta.persistences.*;
+
 public class student{
     private Long id;
     private String name;
